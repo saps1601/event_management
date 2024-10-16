@@ -37,15 +37,18 @@ This project is an Event Management API built with Django and Django REST Framew
 3. Install the required packages
 
 4. Set up the database:
-	python manage.py migrate
+	
+ 	python manage.py migrate
 
 
 5. Create a superuser
-	python manage.py createsuperuser
+	
+ 	python manage.py createsuperuser
 
 
 6. Start Redis
-	redis-server
+	
+ 	redis-server
 
 
 7. Start the Django server:
